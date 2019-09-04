@@ -26,8 +26,10 @@ Roster::Roster()
 		classRosterArray[i] = new Student();
 }
 Roster::~Roster() {
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < 5; i++) {
 		delete classRosterArray[i];
+	}
+	cout << "classRosterArray deleted!" << endl;
 }
 
 void Roster::Add(string id, string firstName, string lastName, string email, int age, int x, int y, int z, Degree degree) {
@@ -266,5 +268,5 @@ int main() {
 	//classRoster.printByDegreeProgram(NETWORK);
 	//classRoster.remove("A3");
 	//classRoster.remove("A3");
-	
+	//classRoster.~Roster();
 }
