@@ -268,5 +268,5 @@ int main() {
 	//classRoster.printByDegreeProgram(NETWORK);
 	//classRoster.remove("A3");
 	//classRoster.remove("A3");
-	//classRoster.~Roster();
+
 }
