@@ -1,0 +1,11 @@
+﻿  networkStudent.cpp
+c:\users\joseph arbelaez\source\repos\c867finalproject\c867finalproject\networkstudent.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  roster.cpp
+c:\users\joseph arbelaez\source\repos\c867finalproject\c867finalproject\roster.cpp(34): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  securityStudent.cpp
+c:\users\joseph arbelaez\source\repos\c867finalproject\c867finalproject\securitystudent.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  softwareStudent.cpp
+c:\users\joseph arbelaez\source\repos\c867finalproject\c867finalproject\softwarestudent.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  student.cpp
+c:\users\joseph arbelaez\source\repos\c867finalproject\c867finalproject\student.cpp(105): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
